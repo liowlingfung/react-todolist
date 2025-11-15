@@ -2,8 +2,8 @@
   "name": "todolist",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://liowlingfung.github.io/react-todolist.git",
   "type": "module",
-  "homepage": "https://liowlingfung.github.io/react-todolist",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
